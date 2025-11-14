@@ -19,7 +19,7 @@ This dashboard was created to help users:
 
 ## 🖼 Dashboard Preview
  
-`![https://ibb.co/Lz8Zckhw)`
+`!(https://ibb.co/Lz8Zckhw)`
 
 ---
 
